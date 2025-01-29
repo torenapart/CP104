@@ -1,0 +1,46 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Hello, enter your celsius temperature here:25
+77
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Hello, please enter your first numerator:1
+Hello, please enter your first denominator:2
+Hello, please enter your second numerator:2
+Hello, please enter your second denominator:3
+The output is 0.3333333333333333
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+What is your Mortgage Principal Amount200000
+Input the number of years:20
+Input the Yearly interest rate:5
+This is your monthly pay 1319.9114784333176
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Hello, how many flyers do you have?:10000
+And how many Volunteers are showing up to the event?22
+There will be 454 for each Volunteer. With 12 flyers left over.
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+Midterm mark (%):75.5
+Exam mark (%):72
+73.225
+-------------------------------------------------------

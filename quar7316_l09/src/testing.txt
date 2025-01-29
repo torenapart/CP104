@@ -1,0 +1,41 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Input a url to catergorize what type of url it is: www.yahoo.com
+
+business
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Input a parses code here to get dissect the category part, the id, the qualifier: ATV3482S14
+
+The category part is: ATV, The ID part is: 3482, The qualifier part is S14
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Input a product code here to see the category, digits, and qualifiers: BFG9000x7
+
+The category is: True, The digits are: True, and the qualifiers are: False
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Input a word: racecar
+
+True
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Input a text you want to be analyzed: Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks.
+
+The amount of uppercase letters is: 1, The amount of lowercase letters is: 78, The amount of digits is: 0, and the amount of whitespaces is: 12
+-------------------------------------------------------

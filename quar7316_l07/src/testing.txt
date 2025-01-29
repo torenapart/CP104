@@ -1,0 +1,69 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Input the target population number: 10000
+
+Input the current population number: 1000
+
+Input the rate at which the population grows: 10
+
+It will take 25 to reach the population of 10000
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First positive value: 4.2
+Next positive value: 3.5
+Next positive value: 0
+Next positive value: 6.1
+Next positive value: -1
+Minimum : 0.00 Maximum: 6.10 Total: 13.80 Average: 3.45
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+What is your available amount of money? $200
+Enter an expense (0 to quit): $150
+Enter another expense (0 to quit): $23
+Enter another expense (0 to quit): $12
+Enter another expense (0 to quit): $15
+Enter another expense (0 to quit): $37.50
+Enter another expense (0 to quit): $65
+Enter another expense (0 to quit): $0
+Total Expenses: 302.5, New Balance: -102.5, Status: Deficit
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Give a number that the value must be greater than: 0
+
+Give a number that the value must be lesser than: 100
+
+Enter a value between 0 and 100: 110
+Value entered is too high
+Enter a value between 0  and 100: -10
+Value entered is too low
+Enter a value between 0  and 100: 75
+75
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 123
+Hourly wage rate: 45
+Hours worked: 46
+
+Employee ID: 124
+Hourly wage rate: 30
+Hours worked: 46
+
+Employee ID: 0
+
+The total is: 3,541.78, and the average is: 1,770.89
+-------------------------------------------------------
