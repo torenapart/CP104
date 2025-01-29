@@ -1,0 +1,133 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+TESTING 1
+
+Input your feet that you want converted: 100000.0
+
+2.295684113865932
+
+TESTING 2
+
+Input your feet that you want converted: 43560
+
+1.0
+
+TESTING 3
+
+Input your feet that you want converted: 87120
+
+2.0
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+TESTING 1
+
+Input your width here: 20
+
+Input your length here: 50
+
+Input your speed here: 4
+
+250.0
+
+TESTING 2
+
+Input your width here: 35
+
+Input your length here: 55
+
+Input your speed here: 9
+
+213.9
+
+TESTING 3
+
+ Input your width here: 67
+
+Input your length here: 23
+
+Input your speed here: 16
+
+96.3
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+TESTING 1
+
+Input your unfiltered date here (YYYYMMDD): 19621025
+
+1962, 10, 25
+
+
+TESTING 2
+
+Input your unfiltered date here (YYYYMMDD): 20060210
+
+2006, 2, 10
+
+TESTING 3
+
+Input your unfiltered date here (YYYYMMDD): 20041015
+
+2004, 10, 15
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+TESTING 1
+
+Input Numerator 1 here: 1
+Input Denominator 1 here:   2
+Input Numerator 2 here: 3
+Input Denominator 2 here: 4
+(3, 8, 0.375)
+
+TESTING 2
+
+Input Numerator 1 here: 1
+Input Denominator 1 here: 2
+Input Numerator 2 here: 1
+Input Denominator 2 here: 2
+(1, 4, 0.25)
+
+TESTING 3
+
+Input Numerator 1 here: 11
+Input Denominator 1 here: 2
+Input Numerator 2 here: 9
+Input Denominator 2 here: 7
+(99, 14, 7.071428571428571)
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+TESTING 1
+
+Input the amount of time the object has been falling for: 15
+
+1102.5
+
+
+TESTING 2
+
+Input the amount of time the object has been falling for: 20
+
+1960.0000000000002
+
+
+TESTING 3
+
+Input the amount of time the object has been falling for: 60
+
+17640.0
+-------------------------------------------------------

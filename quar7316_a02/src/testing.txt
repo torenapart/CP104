@@ -1,0 +1,161 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+#INPUT 1
+
+Enter the total sales: 32000
+
+Projected Tax Report
+--------------------------
+Total Sales:   $32000.0
+Annual tax:    %18.50
+--------------------------
+Tax:           $   5920.00
+
+#INPUT 2
+
+Enter the total sales: 12000
+
+Projected Tax Report
+--------------------------
+Total Sales:   $12000.0
+Annual tax:    %18.50
+--------------------------
+Tax:           $   2220.00
+
+#INPUT 3
+
+Enter the total sales: 18000
+
+Projected Tax Report
+--------------------------
+Total Sales:   $18000.0
+Annual tax:    %18.50
+--------------------------
+Tax:           $   3330.00
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+#INPUT 1
+
+Enter a positive digit number: 25
+
+The difference of the digits of 25 is -3
+
+#INPUT 2
+
+Enter a positive digit number: 18
+
+The difference of the digits of 18 is -7
+
+#INPUT 3
+
+Enter a positive digit number: 92
+
+The difference of the digits of 92 is 7
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+#INPUT 1
+
+Enter a date in the format YYYYMMDD: 19621025
+
+The reformatted date: 1962/10/25
+
+#INPUT 2
+
+Enter a date in the format YYYYMMDD: 20180210
+
+The reformatted date: 2018/2/10
+
+#INPUT 3
+
+Enter a date in the format YYYYMMDD: 20231007
+
+The reformatted date: 2023/10/7
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+#INPUT 1
+
+Number of flyers:1400
+Number of delivery people:12
+
+Flyers per delivery person: 116
+Flyers left over: 8
+
+#INPUT 2
+
+Number of flyers:1023
+Number of delivery people:23
+
+Flyers per delivery person: 44
+Flyers left over: 11
+
+#INPUT 3
+
+Number of flyers:8
+Number of delivery people:2
+
+Flyers per delivery person: 4
+Flyers left over: 0
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+#INPUT 1 
+
+Foundation length (m): 4.0
+Foundation width (m): 2.0
+Foundation height (m): 0.6
+Wall height (m): 2.5
+Cost of concrete ($/m^3): 125
+Cost of bricks ($/m^2): 94
+
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $2,820.00
+Total cost: $3,420.00
+
+#INPUT 2
+
+Foundation length (m): 80.0
+Foundation width (m): 20.0
+Foundation height (m): 10.0
+Wall height (m): 10.0
+Cost of concrete ($/m^3): 200
+Cost of bricks ($/m^2): 150
+
+Concrete needed for foundation (m^3): 16000.00
+Cost of concrete: $3,200,000.00
+Bricks needed for walls (m^2): 2000.00
+Cost of bricks: $300,000.00
+Total cost: $3,500,000.00
+
+
+#INPUT 3
+
+Foundation length (m): 10.0
+Foundation width (m): 5.0
+Foundation height (m): 6.0
+Wall height (m): 3.0
+Cost of concrete ($/m^3): 120
+Cost of bricks ($/m^2): 80
+
+Concrete needed for foundation (m^3): 300.00
+Cost of concrete: $36,000.00
+Bricks needed for walls (m^2): 90.00
+Cost of bricks: $7,200.00
+Total cost: $43,200.00
+-------------------------------------------------------

@@ -1,0 +1,109 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+TESTING 1
+
+Type a sentence with no spaces:StopAndSmellTheRoses.
+
+Stop and smell the roses.
+
+TESTING 2
+
+Type a sentence with no spaces:TheQuickBrownFoxJumpsOverALazyDog.
+
+The quick brown fox jumps over a lazy dog.
+
+TESTING 3
+
+Type a sentence with no spaces:ILoveCoding.
+
+I love coding.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+TESTING 1
+
+Input a word to be pluralized here: city
+
+cities
+
+TESTING 2
+
+Input a word to be pluralized here: student
+
+students
+
+TESTING 3
+
+Input a word to be pluralized here: hedgehog
+
+hedgehogs
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+TESTING 1
+common_end('running', 'jumping')
+
+ing
+
+TESTING 2
+common_end('Dioxide', 'Oxide')
+
+xide
+
+TESTING 3
+
+common_end('coagulation', 'hyperpigmentation')
+
+ation
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+TESTING 1
+
+valid_isbn("978-3-12148410--0")
+
+False
+
+TESTING 2
+
+valid_isbn("978-3-16-148410-0")
+
+True
+
+TESTING 3
+
+valid_isbn("971-3-16-148410-0")
+
+False
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+TESTING 1
+
+has_word_chain(['camel', 'leopard', 'dog', 'giraffe', 'elephant'])
+
+True
+
+TESTING 2
+
+has_word_chain(['hedgehog', 'leopard', 'dog', 'giraffe', 'elephant'])
+
+False
+
+TESTING 3
+
+has_word_chain(['paradox', 'leopard', 'dog', 'giraffe', 'elephant'])
+
+False
+-------------------------------------------------------

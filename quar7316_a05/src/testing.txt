@@ -1,0 +1,227 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+TESTING 1
+
+Input a number to find the n! of: 7
+5040
+
+TESTING 2
+
+Input a number to find the n! of: 52
+80658175170943878571660636856403766975289505440883277824000000000000
+
+TESTING 3
+
+Input a number to find the n! of: 6
+720
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+TESTING 1
+
+Input the Calories Burnt per minute: 4.1
+Input the minutes worked out: 20
+  5  20.5
+ 10  41.0
+ 15  61.5
+ 20  82.0
+
+
+TESTING 2
+
+Input the Calories Burnt per minute: 5
+Input the minutes worked out: 30
+  5  25.0
+ 10  50.0
+ 15  75.0
+ 20  100.0
+ 25  125.0
+ 30  150.0
+
+TESTING 3
+
+Input the Calories Burnt per minute: 10
+Input the minutes worked out: 10
+  5  50.0
+ 10  100.0
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+TESTING 1
+
+Input how many rows you want: 4
+
+    #
+   # #
+  #   #
+ #     #
+
+TESTING 2
+
+Input how many rows you want: 5
+
+     #
+    # #
+   #   #
+  #     #
+ #       #
+
+TESTING 3
+
+Input how many rows you want: 18
+
+                  #
+                 # #
+                #   #
+               #     #
+              #       #
+             #         #
+            #           #
+           #             #
+          #               #
+         #                 #
+        #                   #
+       #                     #
+      #                       #
+     #                         #
+    #                           #
+   #                             #
+  #                               #
+ #                                 #
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+TESTING 1
+
+Input the number to start the multiplication table with: 2
+
+Input the number to end the multiplication table with: 4
+
+4
+6
+6
+9
+8
+12
+
+TESTING 2
+
+Input the number to start the multiplication table with: 2
+
+Input the number to end the multiplication table with: 8
+
+4
+6
+8
+10
+12
+14
+6
+9
+12
+15
+18
+21
+8
+12
+16
+20
+24
+28
+10
+15
+20
+25
+30
+35
+12
+18
+24
+30
+36
+42
+14
+21
+28
+35
+42
+49
+16
+24
+32
+40
+48
+56
+
+
+TESTING 3
+
+Input the number to start the multiplication table with: 3
+
+Input the number to end the multiplication table with: 7
+
+9
+12
+15
+18
+12
+16
+20
+24
+15
+20
+25
+30
+18
+24
+30
+36
+21
+28
+35
+42
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+TESTING 1
+
+Input the starting number here: 1
+
+Input the ending number here: 2
+
+Input the increment here: 20
+
+400
+
+TESTING 2
+
+Input the starting number here: 1
+
+Input the ending number here: 4
+
+Input the increment here: 2
+
+6
+
+
+TESTING 3
+
+Input the starting number here: 1
+
+Input the ending number here: 2
+
+Input the increment here: 40
+
+1600
+-------------------------------------------------------

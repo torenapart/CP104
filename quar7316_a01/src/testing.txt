@@ -1,0 +1,115 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "Program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+#INPUT 1
+
+What is your age? 17
+What is your favourite band? Wave to Earth
+
+I am 17 years old and Wave to Earth is my favourite band.
+
+#INPUT 2
+
+What is your age? 18
+What is your favourite band? AJR
+
+I am 18 years old and AJR is my favourite band.
+
+#INPUT 3
+
+What is your age? 92
+What is your favourite band? Wham!
+
+I am 92 years old and Wham! is my favourite band.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+#INPUT 1
+
+Length in miles:35
+
+Length in km: 56
+
+#INPUT 2
+
+Length in miles:60
+
+Length in km: 97
+
+#INPUT 3
+
+Length in miles:10
+
+Length in km: 16
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+#INPUT 1
+
+Cost of 1 dosa:1.95
+Number of dosa:3
+
+Total cost of 3.0 dosas: $5.85
+
+#INPUT 2
+
+Cost of 1 dosa:5.65
+Number of dosa:10
+
+Total cost of 10.0 dosas: $56.50
+
+#INPUT 3
+
+Cost of 1 dosa:.95
+Number of dosa:18
+
+Total cost of 18.0 dosas: $17.10
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+#INPUT 1 
+
+Principal:5000.00
+Interest (%):5
+Number of years:10
+Number of times interest compounded per year:12
+Balance:$8235.05
+
+#INPUT 2
+
+Principal:250
+Interest (%):5
+Number of years:25
+Number of times interest compounded per year:12
+Balance:$870.32
+
+#INPUT 3
+
+Principal:10000
+Interest (%):5
+Number of years:4
+Number of times interest compounded per year:12
+Balance:$12208.95
+-------------------------------------------------------

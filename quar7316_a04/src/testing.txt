@@ -1,0 +1,179 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Toren Quarshie
+ID:      169067316
+Email:   quar7316@mylaurier.ca
+__updated__ = "2023-09-13"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+TESTING 1
+
+Input a Number for the day of the week.
+(PS. Day 1 is "Sunday", day 7 is "Saturday")
+Input your number here: 1
+
+Sunday
+
+TESTING 2
+
+Input a Number for the day of the week.
+(PS. Day 1 is "Sunday", day 7 is "Saturday")
+Input your number here: 5
+
+Thursday
+
+TESTING 3
+
+Input a Number for the day of the week.
+(PS. Day 1 is "Sunday", day 7 is "Saturday")
+Input your number here: 18
+
+Error
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+TESTING 1
+
+Give the AQI that you want translated to a safety. 
+
+    PS."Good" - 0 to 50 AQI
+    "Moderate" - 51 - 100 AQI
+    "Unhealthy for Sensitive Groups" - 101 - 150 AQI
+    "Unhealthy" - 151 - 200 AQI
+    "Very Unhealthy" - 201 - 300 AQI
+    "Hazardous" - 300+ AQI 
+    
+    You can input the AQI here: 256
+
+Very Unhealthy
+
+
+TESTING 2
+
+Give the AQI that you want translated to a safety. 
+
+    PS."Good" - 0 to 50 AQI
+    "Moderate" - 51 - 100 AQI
+    "Unhealthy for Sensitive Groups" - 101 - 150 AQI
+    "Unhealthy" - 151 - 200 AQI
+    "Very Unhealthy" - 201 - 300 AQI
+    "Hazardous" - 300+ AQI 
+    
+    You can input the AQI here: 54
+
+Moderate
+
+
+TESTING 3
+
+Give the AQI that you want translated to a safety. 
+
+    PS."Good" - 0 to 50 AQI
+    "Moderate" - 51 - 100 AQI
+    "Unhealthy for Sensitive Groups" - 101 - 150 AQI
+    "Unhealthy" - 151 - 200 AQI
+    "Very Unhealthy" - 201 - 300 AQI
+    "Hazardous" - 300+ AQI 
+    
+    You can input the AQI here: -67
+
+Error
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+TESTING 1
+
+Input the first value here: -8.0
+
+Input the second value here: 12.0
+
+Input the third value here: 20.0
+
+16.0
+
+
+TESTING 2
+
+Input the first value here: 8
+
+Input the second value here: 4
+
+Input the third value here: 2
+
+6.0
+
+
+TESTING 3
+
+Input the first value here: 2
+
+Input the second value here: 10
+
+Input the third value here: 2006
+
+1008.0
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+TESTING 1
+
+Input your first RGB colour  that you intend to mix: green
+
+Input your second RGB colour that you intend to mix into the first: red
+
+yellow
+
+
+TESTING 2
+
+Input your first RGB colour  that you intend to mix: red
+
+Input your second RGB colour that you intend to mix into the first: blue
+
+fuchsia
+
+TESTING 3
+
+Input your first RGB colour  that you intend to mix: fuchsia
+
+Input your second RGB colour that you intend to mix into the first: red
+
+Error
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+TESTING 1
+
+Insert number here to see what its divisible by 
+
+PS: "Hoo" for 2, "Rah" for 7, "Hoo Rah" for 2 and 7, and "Zip" for none.
+
+Insert your number here: 14
+
+Hoo Rah
+
+TESTING 2
+
+Insert number here to see what its divisible by 
+
+PS: "Hoo" for 2, "Rah" for 7, "Hoo Rah" for 2 and 7, and "Zip" for none.
+
+Insert your number here: -43
+
+Zip
+
+TESTING 3
+
+Insert number here to see what its divisible by 
+
+PS: "Hoo" for 2, "Rah" for 7, "Hoo Rah" for 2 and 7, and "Zip" for none.
+
+Insert your number here: 78
+
+Hoo
+-------------------------------------------------------
